@@ -1,0 +1,5 @@
+test
+# note: valid is checked in, it cannot be derived by recreate.sh
+train
+soundscapes_val
+soundscapes_test

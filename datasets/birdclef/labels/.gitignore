@@ -1,0 +1,6 @@
+*.tsv
+data.pkl
+labelset
+labelset_latin
+labelset_201?
+# note: labelset_ebird is checked in, it cannot be derived by recreate.sh
